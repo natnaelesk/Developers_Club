@@ -24,4 +24,4 @@ In the **`web/`** folder, you'll work on web development challenges. These inclu
 ## 🚀 If you need the code localy you can clone the repo
 To get started, simply clone this repository to your local machine:
 ```bash
-git clone  https://github.com/natnaelesk/Developers-Club.git
+git clone  https://github.com/natnaelesk/Developers_Club.git
